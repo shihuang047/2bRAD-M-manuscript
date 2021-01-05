@@ -1,0 +1,14 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Specie	Theoretical_Tag_Num	Sequenced_Tag_Num	Percent	Sequenced_Reads_Num	Sequenced_Reads_Num/Theoretical_Tag_Num	Sequenced_Reads_Num/Sequenced_Tag_Num	Sequenced_Tag_Num(depth>1)	G_Score
+human	human	human	human	human	human	human	342435	28905	8.44101800%	164483	0.48033349	5.69046878	21088	68952.02038374
+Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	1747	2666.83333333333	28	1.04993438%	41	0.01537404	1.46428571	11	33.88214869
+Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	446	822.666666666667	7	0.85089141%	7	0.00850891	1.00000000	0	7.00000000
+Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	458	1441	3	0.20818876%	3	0.00208189	1.00000000	0	3.00000000
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacteroides	1774	5759	33	0.57301615%	55	0.00955027	1.66666667	16	42.60281681
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	1773	5010	2	0.03992016%	1806	0.36047904	903.00000000	2	60.09991681
+Eukaryota	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	76775	8443	7	0.08290892%	10	0.00118441	1.42857143	2	8.36660027
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Sterolibacteriaceae	Methyloversatilis	1119528	6262	120	1.91632066%	388	0.06196103	3.23333333	78	215.77766335
+Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	40324	6214	29	0.46668812%	32	0.00514966	1.10344828	2	30.46309242
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycolicibacter	512402	5376	2	0.03720238%	3	0.00055804	1.50000000	1	2.44948974
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Ferrovibrio	2594003	6362	7	0.11002829%	18	0.00282930	2.57142857	7	11.22497216
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	287	7504.21428571429	43	0.57301136%	145	0.01932248	3.37209302	23	78.96201618
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Sterolibacteriaceae	Methyloversatilis	378211	5129	14	0.27295769%	55	0.01072334	3.92857143	9	27.74887385

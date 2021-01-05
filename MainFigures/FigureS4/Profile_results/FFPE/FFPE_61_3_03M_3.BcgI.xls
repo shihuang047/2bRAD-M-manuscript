@@ -1,0 +1,16 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Specie	Theoretical_Tag_Num	Sequenced_Tag_Num	Percent	Sequenced_Reads_Num	Sequenced_Reads_Num/Theoretical_Tag_Num	Sequenced_Reads_Num/Sequenced_Tag_Num	Sequenced_Tag_Num(depth>1)	G_Score
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Sterolibacteriaceae	Methyloversatilis	1346290	5911	2	0.03383522%	9	0.00152259	4.50000000	2	4.24264069
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	1309	340.396984924623	5	1.46887317%	46	0.13513633	9.20000000	5	15.16575089
+Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	40324	6207.66666666667	140	2.25527573%	253	0.04075605	1.80714286	56	188.20201912
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	44008	559.761904761905	5	0.89323692%	27	0.04823479	5.40000000	5	11.61895004
+Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	446	844.617737003058	5	0.59198378%	30	0.03551903	6.00000000	5	12.24744871
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Ferrovibrio	2594003	6358	4	0.06291287%	28	0.00440390	7.00000000	3	10.58300524
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Sterolibacteriaceae	Methyloversatilis	1119528	6193	62	1.00113031%	623	0.10059745	10.04838710	58	196.53498416
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	648885	7613	7	0.09194798%	47	0.00617365	6.71428571	7	18.13835715
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	287	7557	9	0.11909488%	114	0.01508535	12.66666667	9	32.03123476
+Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Achromobacter	1806492	6388	81	1.26800250%	117	0.01831559	1.44444444	26	97.34988444
+Eukaryota	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	76775	8443	5	0.05922066%	32	0.00379012	6.40000000	4	12.64911064
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Sterolibacteriaceae	Methyloversatilis	378211	5085	6	0.11799410%	60	0.01179941	10.00000000	6	18.97366596
+Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Solibacillus	412383	1622	2	0.12330456%	14	0.00863132	7.00000000	2	5.29150262
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	1773	5018	2	0.03985652%	9025	1.79852531	4512.50000000	2	134.35028843
+human	human	human	human	human	human	human	342452	31674	9.24917945%	994533	2.90415299	31.39903391	30525	177484.75495659

@@ -1,0 +1,17 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Specie	Theoretical_Tag_Num	Sequenced_Tag_Num	Percent	Sequenced_Reads_Num	Sequenced_Reads_Num/Theoretical_Tag_Num	Sequenced_Reads_Num/Sequenced_Tag_Num	Sequenced_Tag_Num(depth>1)	G_Score
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	1561223	1352	3	0.22189349%	5	0.00369822	1.66666667	2	3.87298335
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Sterolibacteriaceae	Methyloversatilis	1119528	6261.66666666667	101	1.61298909%	394	0.06292254	3.90099010	79	199.48433522
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	1773	5008	2	0.03993610%	1913	0.38198882	956.50000000	2	61.85466838
+human	human	human	human	human	human	human	342452	28965	8.45811968%	164498	0.48035345	5.67919903	21092	69026.69461882
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycolicibacter	512402	5374	2	0.03721623%	5	0.00093041	2.50000000	1	3.16227766
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Ferrovibrio	2594003	6353	6	0.09444357%	12	0.00188887	2.00000000	5	8.48528137
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacteroides	1774	2241	13	0.58009817%	23	0.01026328	1.76923077	5	17.29161647
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	287	7546	27	0.35780546%	128	0.01696263	4.74074074	14	58.78775383
+Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	40324	6201.625	15	0.24187209%	21	0.00338621	1.40000000	5	17.74823935
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	48292	6146	2	0.03254149%	5	0.00081354	2.50000000	2	3.16227766
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	13690	7906.33333333333	14	0.17707323%	20	0.00252962	1.42857143	5	16.73320053
+Eukaryota	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	76773	9386	2	0.02130833%	3	0.00031962	1.50000000	1	2.44948974
+Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	446	832.161961367013	6	0.72101349%	9	0.01081520	1.50000000	2	7.34846923
+Eukaryota	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	76775	8423	9	0.10685029%	19	0.00225573	2.11111111	6	13.07669683
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Sterolibacteriaceae	Methyloversatilis	378211	5127.33333333333	13	0.25354310%	47	0.00916656	3.61538462	12	24.71841419
+Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Janibacter	857417	5108	3	0.05873140%	5	0.00097886	1.66666667	2	3.87298335

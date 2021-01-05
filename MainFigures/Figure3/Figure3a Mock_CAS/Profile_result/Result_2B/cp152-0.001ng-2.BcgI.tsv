@@ -1,0 +1,210 @@
+name	taxID	taxRank	genomeSize	numReads	numUniqueReads	abundance
+Sorangium cellulosum	56	species	13907952	1	0	0
+Pseudomonas aeruginosa	287	species	22457305	1	1	0.0
+Pseudomonas putida	303	species	6888188	2	1	1.55607e-06
+Acinetobacter baumannii	470	species	11595472	1	0	5.76788e-20
+Neisseria gonorrhoeae	485	species	4967431	2014	0	8.84354e-18
+Neisseria lactamica	486	species	2220606	1	0	4.82683e-06
+Neisseria meningitidis	487	species	8508873	2014	0	0
+Enterobacteriaceae	543	family	0	114	2	0.0
+Citrobacter	544	genus	0	2	0	0.0
+Citrobacter koseri	545	species	4735357	5698	3	7.37015e-06
+Citrobacter freundii	546	species	16193243	1578	0	0
+[Enterobacter] aerogenes	548	species	10750562	8756	0	2.63888e-20
+Enterobacter cloacae	550	species	10083180	5	2	1.06363e-06
+Escherichia	561	genus	0	3078	0	0.0
+Escherichia coli	562	species	12319210	200094	73385	0.165567
+Shimwellia blattae	563	species	4158725	7	0	3.92107e-69
+Escherichia fergusonii	564	species	4643861	17570	7	6.14697e-06
+Hafnia alvei	569	species	6928293	2	0	7.44192e-133
+Klebsiella	570	genus	0	21	0	0.0
+Klebsiella oxytoca	571	species	16779606	8	0	0.0
+Klebsiella pneumoniae	573	species	15713353	5697	1	2.03336e-06
+Serratia	613	genus	0	10	0	0.0
+Serratia liquefaciens	614	species	7946985	6	0	4.30086e-115
+Serratia marcescens	615	species	8465231	1	0	1.98194e-18
+Shigella	620	genus	0	38142	0	0.0
+Shigella boydii	621	species	4698475	24520	19	2.71855e-05
+Shigella dysenteriae	622	species	4560911	29392	35	1.48675e-05
+Shigella flexneri	623	species	4763519	31369	9	2.64068e-05
+Shigella sonnei	624	species	6798914	30349	12	1.09671e-05
+Xenorhabdus	626	genus	0	1	0	0.0
+Yersinia	629	genus	0	6	0	0.0
+Yersinia enterocolitica	630	species	14308813	1	0	5.32092e-123
+Yersinia pestis	632	species	7124135	1	0	5.23542e-113
+Yersinia pseudotuberculosis	633	species	9565781	1	0	3.13509e-117
+Edwardsiella	635	genus	0	3082	0	0.0
+Aeromonas hydrophila	644	species	7739252	1	1	0.0
+Vibrio cholerae	666	species	6170861	1	0	0.0
+Plesiomonas	702	genus	0	10	0	0.0
+Plesiomonas shigelloides	703	species	3405979	3073	0	2.25689e-20
+Histophilus somni	731	species	2138367	1	0	5.01246e-06
+Sebaldella termitidis	826	species	4486650	1	0	0.0
+Leuconostoc mesenteroides	1245	species	1966146	2	0	6.66081e-122
+Leuconostoc lactis	1246	species	1788069	1	0	1.80513e-130
+Leuconostoc carnosum	1252	species	1773468	2	0	2.0021e-120
+Staphylococcus	1279	genus	0	841	836	0.0
+Staphylococcus aureus	1280	species	7252422	76374	75257	0.109731
+Staphylococcus hyicus	1284	species	2472129	5	0	0.0
+Staphylococcus schleiferi	1295	species	12494798	2	1	4.43906e-50
+Streptococcus	1301	genus	0	41	0	0.0
+Streptococcus oralis	1303	species	1958690	2	0	9.15265e-73
+Streptococcus suis	1307	species	2683756	1226	0	3.1312e-27
+Streptococcus thermophilus	1308	species	3463400	2	0	8.22147e-81
+Streptococcus mutans	1309	species	2017559	34124	32520	0.180564
+Streptococcus agalactiae	1311	species	5721038	27667	25269	0.0514631
+Streptococcus pyogenes	1314	species	4096430	2377	3	8.92182e-06
+Streptococcus dysgalactiae	1334	species	2149105	10	0	1.43201e-65
+Streptococcus intermedius	1338	species	1963517	388	1	5.52731e-06
+Enterococcus faecalis	1351	species	3401628	2	0	1.18207e-129
+Lactococcus lactis	1358	species	2704731	44	0	3.18138e-78
+Aerococcus viridans	1377	species	2199877	1	0	4.49923e-108
+Bacillus anthracis	1392	species	17446789	1	0	8.5384e-17
+Bacillus cereus	1396	species	9676532	1	0	1.10768e-06
+Bacillus mycoides	1405	species	11312355	1	1	9.47502e-07
+Lactobacillus	1578	genus	0	3	0	0.0
+Lactobacillus brevis	1580	species	2493592	2576	9	3.56041e-24
+Lactobacillus buchneri	1581	species	2575738	7	6	2.08074e-05
+Lactobacillus casei	1582	species	3039836	2	2	7.05217e-06
+Lactobacillus delbrueckii	1584	species	1920382	676	0	1.77352e-38
+Lactobacillus helveticus	1587	species	3148198	9	0	4.41684e-104
+Lactobacillus paracasei	1597	species	4200086	5	0	6.29447e-115
+Lactobacillus reuteri	1598	species	2811237	21	3	0.0
+Lactobacillus fermentum	1613	species	2108824	65494	59533	0.318445
+Lactobacillus sanfranciscensis	1625	species	1375770	19	0	0.0
+Listeria monocytogenes	1639	species	5926303	41	0	5.95739e-90
+Listeria innocua	1642	species	3093113	41	0	1.19919e-80
+Propionibacterium acnes	1747	species	3361368	1768	1767	0.00558665
+Rhodococcus	1827	genus	0	1	1	0.0
+Rhodococcus fascians	1828	species	5502110	108	34	0.000127149
+Rhodococcus erythropolis	1833	species	6734667	1	0	1.06122e-40
+Thermomonospora curvata	2020	species	5639016	1	1	0.0
+Mycoplasma	2093	genus	0	1	0	0.0
+Spiroplasma	2132	genus	0	1	0	0.0
+Xylella fastidiosa	2371	species	2609554	5	5	0.0
+Marinobacter hydrocarbonoclasticus	2743	species	4384621	1	0	0
+Homo sapiens	9606	species	3238442024	3916	3723	1.23487e-05
+Siphoviridae	10699	family	47340	5	0	0.0
+Escherichia virus HK022	10742	species	40751	5	0	2.73487e-30
+Streptococcus mitis	28037	species	3110438	15	2	6.89706e-06
+Cronobacter sakazakii	28141	species	5648091	9	4	9.49836e-06
+Serratia proteamaculans	28151	species	5495657	1	0	6.67794e-130
+Salmonella enterica	28901	species	6689149	10580	40	0
+Staphylococcus saprophyticus	29385	species	3903594	3	3	0.0
+Staphylococcus capitis	29388	species	2503265	1	0	1.8987e-28
+Yersinia rohdei	29485	species	4372253	1	0	8.61584e-106
+Leptotrichia	32067	genus	0	1	0	0.0
+synthetic construct	32630	species	26537524	2278	1	4.0582e-07
+Anoxybacillus flavithermus	33934	species	2846746	1	0	6.54904e-137
+Geobacillus thermodenitrificans	33940	species	3608012	1	0	2.63009e-140
+Streptobacillus moniliformis	34105	species	1673280	1	0	0.0
+Citrobacter amalonaticus	35703	species	7931914	200	5	2.70833e-06
+Acinetobacter johnsonii	40214	species	4081329	1331	1331	0.00349288
+Stenotrophomonas maltophilia	40324	species	6512435	3295	0	0
+Nitrospira moscoviensis	42253	species	4589485	1	0	0.0
+Rhodococcus equi	43767	species	5043170	1	0	8.19486e-31
+Staphylococcus pasteuri	45972	species	2559946	3	0	0.0
+Lactobacillus rhamnosus	47715	species	3484485	2649	7	3.16257e-28
+Pediococcus damnosus	51663	species	11570178	4	0	2.2996e-137
+Pantoea	53335	genus	0	111	0	0.0
+Streptomyces venezuelae	54571	species	18089227	1	0	3.43398e-53
+Salmonella bongori	54736	species	4542714	1	0	5.27858e-72
+Rhizobium gallicum	56730	species	7311190	2	2	0.0
+Streptococcus macedonicus	59310	species	2142762	1	0	1.16554e-75
+Enterobacter asburiae	61645	species	6470569	6	0	1.93179e-76
+Pluralibacter gergoviae	61647	species	5489680	2	2	3.90909e-06
+Kluyvera intermedia	61648	species	6166452	3	0	9.87961e-76
+Citrobacter rodentium	67825	species	5444283	9	1	8.85699e-74
+Shewanella oneidensis	70863	species	5131424	1	0	0.0
+Photobacterium profundum	74109	species	6403280	1	1	1.6739e-06
+Pseudomonas mandelii	75612	species	7188564	1636	1636	0.00243637
+Streptococcus constellatus	76860	species	1954077	352	0	3.79766e-39
+Obesumbacterium proteus	82983	species	5011796	1	0	3.65572e-138
+Serratia plymuthica	82996	species	6554843	2	0	0.0
+Leclercia adecarboxylata	83655	species	4803917	5	0	2.0064e-07
+Pandoraea pnomenusa	93220	species	11008666	1	0	0.0
+Pandoraea sputorum	93222	species	5751958	1	0	0.0
+Lactobacillus mucosae	97478	species	2434610	14	6	2.64189e-05
+Streptococcus infantarius	102684	species	1913271	1	0	4.83075e-74
+Pectobacterium	122277	genus	0	1	0	0.0
+Rhodococcus jostii	132919	species	9702737	1	0	0.0
+Enterobacter hormaechei	158836	species	11766809	5	1	9.11368e-07
+Lambdavirus	186765	genus	0	6	0	0.0
+Sneathia amnii	187101	species	1330224	1	0	0.0
+Pediococcus claussenii	187452	species	2958378	4	0	8.0421e-118
+Dickeya dadantii	204038	species	4922802	2	0	0.0
+Enterobacter kobei	208224	species	4927478	1	0	0.0
+Escherichia albertii	208962	species	4679521	29436	39	0
+Erwinia sp. Ejp617	215689	species	3957675	1	1	0.0
+Stenotrophomonas rhizophila	216778	species	4198652	3295	0	0.0083682
+Pseudomonas alkylphenolia	237609	species	5764622	1	0	0.0
+Lactobacillus paracollinoides	240427	species	10733574	2667	0	2.19733e-43
+Klebsiella variicola	244366	species	10894097	9	0	1.22535e-19
+Staphylococcus equorum	246432	species	8544915	5	1	0.0
+Streptococcus pseudopneumoniae	257758	species	2195458	2	0	2.15083e-74
+Staphylococcus phage 77	259901	species	41708	3	0	2.6782e-38
+Yersinia aleksiciae	263819	species	4000307	1	0	0.0
+Photorhabdus asymbiotica	291112	species	5094138	1	0	0.0
+Enterobacter ludwigii	299767	species	4952770	1	0	0.0
+Staphylococcus phage PT1028	320831	species	15603	182	0	0.0146071
+Nitrospira defluvii	330214	species	4317083	1	0	0.0
+Enterobacteria phage 933W sensu lato	374810	species	61042	3	0	0.0
+Lactobacillus backii	375175	species	14123253	669	0	1.09253e-66
+Staphylococcus phage phiNM3	387909	species	44061	3	0	4.75586e-39
+Coraliomargarita akajimensis	395922	species	3750771	1	0	8.43654e-17
+Cronobacter dublinensis	413497	species	4628405	1	0	6.08046e-17
+Cronobacter muytjensii	413501	species	4364114	2	0	3.49051e-17
+Cronobacter turicensis	413502	species	4599092	3	0	0.0
+Cronobacter malonaticus	413503	species	4516853	2	0	5.45277e-17
+Enterobacteria phage cdtI	414970	species	47021	1	0	2.62569e-37
+Lysobacter capsici	435897	species	6391889	2	2	0.0
+Kocuria flava	446860	species	3638342	1	1	0.0
+Chloracidobacterium thermophilum	458033	species	3695372	1	0	0.0
+Kosakonia oryzae	497725	species	5303342	9	0	2.73995e-72
+Cronobacter universalis	535744	species	4436873	1	0	4.51297e-17
+Stx2-converting phage 1717	563769	species	62147	3	0	4.11412e-38
+Enterobacteria phage YYZ-2008	564886	species	54896	4	0	1.34404e-53
+Pandoraea oxalativorans	573737	species	6500731	1	0	0.0
+Photorhabdus temperata	574560	species	5147098	3	0	2.46931e-120
+Arthrobacter alpinus	656366	species	8380101	7	7	0.0
+Staphylococcus phage P954	668618	species	40761	3	0	5.51249e-38
+Propionibacterium sp. oral taxon 193	671223	species	2649207	1	0	1.46485e-79
+Enterobacteriaceae bacterium strain FGI 57	693444	species	4762179	23	0	8.96194e-72
+Streptococcus sp. oral taxon 431	712633	species	2177905	2	0	2.80038e-74
+Sphingomonas sp. MM-1	745310	species	4633613	1	0	0.0
+Mycobacterium sinense	875328	species	4643668	1	0	2.30819e-06
+Staphylococcus argenteus	985002	species	2787638	43	1	1.31704e-27
+Enterobacteria phage mEp460	1147152	species	44510	1	0	1.45207e-36
+Kosakonia sacchari	1158459	species	4902066	6	0	8.75667e-06
+Enterobacter sp. R4-368	1166130	species	5155034	2	0	1.67946e-73
+Flammeovirga sp. MY04	1191459	species	7327614	3	3	4.38825e-06
+Enterobacteria phage SfI	1225789	species	38389	3	0	1.06459e-50
+Pseudomonas sp. FGI182	1259844	species	5891312	2	2	3.63874e-06
+Enterobacter xiangfangensis	1296536	species	4661849	2	0	0.0
+Sphingobium sp. TKS	1315974	species	6228879	1	1	0.0
+Enterobacter lignolyticus	1334193	species	4814049	822	0	1.65194e-38
+Pseudomonas sp. JY-Q	1338689	species	6178825	1	0	0.0
+Staphylococcus phage SA12	1347760	species	42902	890	0	0.113123
+Klebsiella quasipneumoniae	1463165	species	5586672	1	0	1.55479e-24
+Candidatus Sodalis pierantonius	1486991	species	4513140	1	1	2.37495e-06
+Staphylococcus phage phiBU01	1519999	species	43748	887	0	0
+Rhodococcus sp. B7740	1564114	species	5341557	6	2	4.1857e-06
+Erwinia gerundensis	1619313	species	4481256	2	2	0.0
+Rhodococcus sp. PBTS 2	1653479	species	5316948	102	28	0.000112174
+Enterobacter sp. FY-07	1692238	species	5138701	1	0	0.0
+Citrobacter sp. FDAARGOS_156	1702170	species	4727434	2	0	2.27017e-06
+Klebsiella sp. G5	1715259	species	4702949	828	0	3.44411e-38
+Staphylococcus sp. AntiMn-1	1715860	species	2738396	5	0	0.0
+Candidatus Nitrospira inopinata	1715989	species	3295117	1	0	0.0
+Marinobacter sp. LQ44	1749259	species	4435564	1	0	0
+Kurthia sp. 11kri321	1750719	species	2964527	1	0	2.99173e-112
+Microbacterium sp. PAMC 28756	1795053	species	3539061	1	1	0.0
+Shigella sp. PAMC 28760	1813821	species	4558287	43963	0	0.0261321
+Salmonella phage SJ46	1815968	species	103445	3	0	7.52495e-67
+Enterobacter sp. ODB01	1827481	species	4534036	1	0	0.0
+Exiguobacterium sp. U13-1	1849031	species	3208634	1	0	2.19866e-113
+Enterobacter cloacae complex sp. 35734	1870930	species	5276896	2	0	8.60702e-74
+Erwiniaceae	1903409	family	0	1	0	0.0
+Yersiniaceae	1903411	family	0	1	0	0.0
+Klebsiella sp. LTGPAF-6F	1905288	species	6790399	11	3	0.0
+Pectobacterium parmentieri	1905730	species	5047366	1	0	1.3143e-128

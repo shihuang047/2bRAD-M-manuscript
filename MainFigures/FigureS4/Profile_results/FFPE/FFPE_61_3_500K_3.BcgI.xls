@@ -1,0 +1,10 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Specie	Theoretical_Tag_Num	Sequenced_Tag_Num	Percent	Sequenced_Reads_Num	Sequenced_Reads_Num/Theoretical_Tag_Num	Sequenced_Reads_Num/Sequenced_Tag_Num	Sequenced_Tag_Num(depth>1)	G_Score
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	648885	7614	5	0.06566851%	8	0.00105070	1.60000000	3	6.32455532
+human	human	human	human	human	human	human	342452	25228	7.36687185%	166139	0.48514536	6.58550024	18619	64740.67262548
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Sterolibacteriaceae	Methyloversatilis	378211	5133.33333333333	4	0.07792208%	7	0.00136364	1.75000000	3	5.29150262
+Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	40324	6234.2	28	0.44913541%	34	0.00545379	1.21428571	4	30.85449724
+Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	1309	340.740932642487	2	0.58695619%	3	0.00880434	1.50000000	1	2.44948974
+Eukaryota	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	76775	8443	4	0.04737652%	6	0.00071065	1.50000000	2	4.89897949
+Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Ferrovibrio	2594003	6361	2	0.03144160%	3	0.00047162	1.50000000	1	2.44948974
+Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	1773	5019	2	0.03984858%	1450	0.28890217	725.00000000	2	53.85164807
+Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Sterolibacteriaceae	Methyloversatilis	1119528	6262.33333333333	40	0.63873955%	109	0.01740565	2.72500000	21	66.03029608
