@@ -1,0 +1,171 @@
+SampleID	Group	Abundance	Species	Dist
+S1	0_shotgun	0.18773349	Lactobacillus fermentum	0
+S2	0_shotgun	0.246031524	Staphylococcus aureus	
+S3	0_shotgun	0.295261794	Escherichia coli	
+S4	0_shotgun	0.149937009	Streptococcus agalactiae	
+S5	0_shotgun	0.121036183	Streptococcus mutans	
+S6	1_1B_9H	0.225501498	Lactobacillus fermentum	0.109
+S7	1_1B_9H	0.31009821	Staphylococcus aureus	
+S8	1_1B_9H	0.22178082	Escherichia coli	
+S9	1_1B_9H	0.154376435	Streptococcus agalactiae	
+S10	1_1B_9H	0.088243036	Streptococcus mutans	
+S11	1_1B_10H	0.242462978	Lactobacillus fermentum	0.107
+S12	1_1B_10H	0.303928925	Staphylococcus aureus	
+S13	1_1B_10H	0.233259551	Escherichia coli	
+S14	1_1B_10H	0.130538827	Streptococcus agalactiae	
+S15	1_1B_10H	0.08980972	Streptococcus mutans	
+S16	1_1B_11H	0.223008899	Lactobacillus fermentum	0.104
+S17	1_1B_11H	0.318378818	Staphylococcus aureus	
+S18	1_1B_11H	0.240817957	Escherichia coli	
+S19	1_1B_11H	0.13294535	Streptococcus agalactiae	
+S20	1_1B_11H	0.084848976	Streptococcus mutans	
+S21	2_1B_99H	0.229360019	Lactobacillus fermentum	0.109
+S22	2_1B_99H	0.318777798	Staphylococcus aureus	
+S23	2_1B_99H	0.237966081	Escherichia coli	
+S24	2_1B_99H	0.126513613	Streptococcus agalactiae	
+S25	2_1B_99H	0.087382489	Streptococcus mutans	
+S26	2_1B_100H	0.249721063	Lactobacillus fermentum	0.102
+S27	2_1B_100H	0.290201293	Staphylococcus aureus	
+S28	2_1B_100H	0.236390685	Escherichia coli	
+S29	2_1B_100H	0.128537658	Streptococcus agalactiae	
+S30	2_1B_100H	0.095149301	Streptococcus mutans	
+S31	2_1B_101H	0.263440067	Lactobacillus fermentum	0.1
+S32	2_1B_101H	0.273234633	Staphylococcus aureus	
+S33	2_1B_101H	0.253111013	Escherichia coli	
+S34	2_1B_101H	0.116206778	Streptococcus agalactiae	
+S35	2_1B_101H	0.094007509	Streptococcus mutans	
+S36	3_150bp	0.301761796	Lactobacillus fermentum	0.137
+S37	3_150bp	0.233625363	Staphylococcus aureus	
+S38	3_150bp	0.224776948	Escherichia coli	
+S39	3_150bp	0.143307655	Streptococcus agalactiae	
+S40	3_150bp	0.096528239	Streptococcus mutans	
+S41	3_151bp	0.291988276	Lactobacillus fermentum	0.125
+S42	3_151bp	0.23122922	Staphylococcus aureus	
+S43	3_151bp	0.232606183	Escherichia coli	
+S44	3_151bp	0.147549404	Streptococcus agalactiae	
+S45	3_151bp	0.096626917	Streptococcus mutans	
+S46	3_154bp	0.273014492	Lactobacillus fermentum	0.124
+S47	3_154bp	0.266708127	Staphylococcus aureus	
+S48	3_154bp	0.214774913	Escherichia coli	
+S49	3_154bp	0.158123615	Streptococcus agalactiae	
+S50	3_154bp	0.087378853	Streptococcus mutans	
+S51	4_50bp	0.316099463	Lactobacillus fermentum	0.17
+S52	4_50bp	0.23625132	Staphylococcus aureus	
+S53	4_50bp	0.188481718	Escherichia coli	
+S54	4_50bp	0.166913188	Streptococcus agalactiae	
+S55	4_50bp	0.092254311	Streptococcus mutans	
+S56	4_52bp	0.333927337	Lactobacillus fermentum	0.184
+S57	4_52bp	0.221261769	Staphylococcus aureus	
+S58	4_52bp	0.194017412	Escherichia coli	
+S59	4_52bp	0.165079703	Streptococcus agalactiae	
+S60	4_52bp	0.085713779	Streptococcus mutans	
+S61	4_53bp	0.331163445	Lactobacillus fermentum	0.181
+S62	4_53bp	0.219493805	Staphylococcus aureus	
+S63	4_53bp	0.197392783	Escherichia coli	
+S64	4_53bp	0.169133972	Streptococcus agalactiae	
+S65	4_53bp	0.082815995	Streptococcus mutans	
+S66	5_50ng	0.245135662	Lactobacillus fermentum	0.099
+S67	5_50ng	0.287206916	Staphylococcus aureus	
+S68	5_50ng	0.232754417	Escherichia coli	
+S69	5_50ng	0.143306771	Streptococcus agalactiae	
+S70	5_50ng	0.091596235	Streptococcus mutans	
+S71	5_52ng	0.242043959	Lactobacillus fermentum	0.099
+S72	5_52ng	0.291247082	Staphylococcus aureus	
+S73	5_52ng	0.232160701	Escherichia coli	
+S74	5_52ng	0.140831486	Streptococcus agalactiae	
+S75	5_52ng	0.093716773	Streptococcus mutans	
+S76	5_53ng	0.246941198	Lactobacillus fermentum	0.1
+S77	5_53ng	0.287591711	Staphylococcus aureus	
+S78	5_53ng	0.234593206	Escherichia coli	
+S79	5_53ng	0.143568817	Streptococcus agalactiae	
+S80	5_53ng	0.087305068	Streptococcus mutans	
+S81	6_21ng	0.251372069	Lactobacillus fermentum	0.098
+S82	6_21ng	0.283331235	Staphylococcus aureus	
+S83	6_21ng	0.242379478	Escherichia coli	
+S84	6_21ng	0.135520456	Streptococcus agalactiae	
+S85	6_21ng	0.087396761	Streptococcus mutans	
+S86	6_22ng	0.25409213	Lactobacillus fermentum	0.096
+S87	6_22ng	0.278525876	Staphylococcus aureus	
+S88	6_22ng	0.245082447	Escherichia coli	
+S89	6_22ng	0.133850764	Streptococcus agalactiae	
+S90	6_22ng	0.088448784	Streptococcus mutans	
+S91	6_23ng	0.252460616	Lactobacillus fermentum	0.096
+S92	6_23ng	0.278772952	Staphylococcus aureus	
+S93	6_23ng	0.243658164	Escherichia coli	
+S94	6_23ng	0.13950938	Streptococcus agalactiae	
+S95	6_23ng	0.085598887	Streptococcus mutans	
+S96	7_10ng_17C	0.246529885	Lactobacillus fermentum	0.1
+S97	7_10ng_17C	0.289112799	Staphylococcus aureus	
+S98	7_10ng_17C	0.237704589	Escherichia coli	
+S99	7_10ng_17C	0.142191824	Streptococcus agalactiae	
+S100	7_10ng_17C	0.084460903	Streptococcus mutans	
+S101	7_10ng_19C	0.260882368	Lactobacillus fermentum	0.099
+S102	7_10ng_19C	0.274999065	Staphylococcus aureus	
+S103	7_10ng_19C	0.247822747	Escherichia coli	
+S104	7_10ng_19C	0.124973982	Streptococcus agalactiae	
+S105	7_10ng_19C	0.091321838	Streptococcus mutans	
+S106	7_10ng_20C	0.244668659	Lactobacillus fermentum	0.096
+S107	7_10ng_20C	0.288744139	Staphylococcus aureus	
+S108	7_10ng_20C	0.241514	Escherichia coli	
+S109	7_10ng_20C	0.13769932	Streptococcus agalactiae	
+S110	7_10ng_20C	0.087373881	Streptococcus mutans	
+S111	7_10ng	0.255540939	Lactobacillus fermentum	0.103
+S112	7_10ng	0.288281086	Staphylococcus aureus	
+S113	7_10ng	0.246600397	Escherichia coli	
+S114	7_10ng	0.128543006	Streptococcus agalactiae	
+S115	7_10ng	0.081034572	Streptococcus mutans	
+S116	7_10ng	0.266058708	Lactobacillus fermentum	0.098
+S117	7_10ng	0.261602637	Staphylococcus aureus	
+S118	7_10ng	0.253209941	Escherichia coli	
+S119	7_10ng	0.133914861	Streptococcus agalactiae	
+S120	7_10ng	0.085213853	Streptococcus mutans	
+S121	7_10ng	0.267083648	Lactobacillus fermentum	0.105
+S122	7_10ng	0.268457976	Staphylococcus aureus	
+S123	7_10ng	0.240043809	Escherichia coli	
+S124	7_10ng	0.138178849	Streptococcus agalactiae	
+S125	7_10ng	0.086235718	Streptococcus mutans	
+S126	8_0.1ng_1	0.263857994	Lactobacillus fermentum	0.107
+S127	8_0.1ng_1	0.280969572	Staphylococcus aureus	
+S128	8_0.1ng_1	0.242230314	Escherichia coli	
+S129	8_0.1ng_1	0.11920816	Streptococcus agalactiae	
+S130	8_0.1ng_1	0.093733959	Streptococcus mutans	
+S131	8_0.1ng_2	0.261262127	Lactobacillus fermentum	0.104
+S132	8_0.1ng_2	0.28186142	Staphylococcus aureus	
+S133	8_0.1ng_2	0.249308044	Escherichia coli	
+S134	8_0.1ng_2	0.11193209	Streptococcus agalactiae	
+S135	8_0.1ng_2	0.095636319	Streptococcus mutans	
+S136	8_0.1ng_5	0.266755808	Lactobacillus fermentum	0.107
+S137	8_0.1ng_5	0.278107026	Staphylococcus aureus	
+S138	8_0.1ng_5	0.249782179	Escherichia coli	
+S139	8_0.1ng_5	0.1135712	Streptococcus agalactiae	
+S140	8_0.1ng_5	0.091783788	Streptococcus mutans	
+S141	cp152_0_001ng_1	0.271442353	Lactobacillus fermentum	0.114
+S142	cp152_0_001ng_1	0.237238583	Staphylococcus aureus	
+S143	cp152_0_001ng_1	0.319342021	Escherichia coli	
+S144	cp152_0_001ng_1	0.082038033	Streptococcus agalactiae	
+S145	cp152_0_001ng_1	0.089939009	Streptococcus mutans	
+S146	cp152_0_001ng_2	0.223838565	Lactobacillus fermentum	0.079
+S147	cp152_0_001ng_2	0.282959348	Staphylococcus aureus	
+S148	cp152_0_001ng_2	0.275920801	Escherichia coli	
+S149	cp152_0_001ng_2	0.095009099	Streptococcus agalactiae	
+S150	cp152_0_001ng_2	0.122272187	Streptococcus mutans	
+S151	cp152_0_001ng_3	0.306066473	Lactobacillus fermentum	0.141
+S152	cp152_0_001ng_3	0.238367215	Staphylococcus aureus	
+S153	cp152_0_001ng_3	0.286963537	Escherichia coli	
+S154	cp152_0_001ng_3	0.078928687	Streptococcus agalactiae	
+S155	cp152_0_001ng_3	0.089674088	Streptococcus mutans	
+S156	cp152_0_01ng_1	0.371169324	Lactobacillus fermentum	0.213
+S157	cp152_0_01ng_1	0.162970327	Staphylococcus aureus	
+S158	cp152_0_01ng_1	0.298229885	Escherichia coli	
+S159	cp152_0_01ng_1	0.096620331	Streptococcus agalactiae	
+S160	cp152_0_01ng_1	0.071010133	Streptococcus mutans	
+S161	cp152_0_01ng_2	0.351885781	Lactobacillus fermentum	0.19
+S162	cp152_0_01ng_2	0.176249365	Staphylococcus aureus	
+S163	cp152_0_01ng_2	0.299081858	Escherichia coli	
+S164	cp152_0_01ng_2	0.100356485	Streptococcus agalactiae	
+S165	cp152_0_01ng_2	0.07242651	Streptococcus mutans	
+S166	cp152_0_01ng_3	0.254932611	Lactobacillus fermentum	0.093
+S167	cp152_0_01ng_3	0.268078137	Staphylococcus aureus	
+S168	cp152_0_01ng_3	0.242289471	Escherichia coli	
+S169	cp152_0_01ng_3	0.12006795	Streptococcus agalactiae	
+S170	cp152_0_01ng_3	0.11463183	Streptococcus mutans	

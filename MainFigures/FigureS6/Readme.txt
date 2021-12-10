@@ -1,1 +1,0 @@
-DNA gel electrophoresis, no data involved, sample names have been marked on the figure.

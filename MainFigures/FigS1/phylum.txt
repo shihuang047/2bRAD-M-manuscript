@@ -1,0 +1,977 @@
+enzyme	name	all	unique
+AlfI	Candidatus Bathyarchaeota	622	622
+AlfI	Candidatus Korarchaeota	707	698
+AlfI	Candidatus Micrarchaeota	252	246
+AlfI	Crenarchaeota	11441	11368
+AlfI	Euryarchaeota	167565	166251
+AlfI	Thaumarchaeota	10111	10021
+AlfI	unclassified	616	595
+AlfI	Abditibacteriota	929	924
+AlfI	Acidobacteria	125527	122684
+AlfI	Actinobacteria	7187724	7128393
+AlfI	Aquificae	4356	4339
+AlfI	Armatimonadetes	6790	6741
+AlfI	Bacteroidetes	1916457	1895522
+AlfI	Balneolaeota	12004	11923
+AlfI	Caldiserica	187	185
+AlfI	Calditrichaeota	1324	1302
+AlfI	Candidatus Atribacteria	174	160
+AlfI	Candidatus Bipolaricaulota	143	142
+AlfI	Candidatus Cloacimonetes	575	565
+AlfI	Candidatus Cryosericota	2753	2746
+AlfI	Candidatus Gracilibacteria	39	39
+AlfI	Candidatus Kryptonia	995	993
+AlfI	Candidatus Marinimicrobia	4032	3995
+AlfI	Candidatus Melainabacteria	2878	2827
+AlfI	Candidatus Saccharibacteria	4856	4821
+AlfI	Candidatus Tectomicrobia	6458	6445
+AlfI	Chlamydiae	13563	13385
+AlfI	Chlorobi	23608	23307
+AlfI	Chloroflexi	126897	125276
+AlfI	Chrysiogenetes	2877	2832
+AlfI	Coprothermobacterota	925	909
+AlfI	Cyanobacteria	367850	361201
+AlfI	Deferribacteres	4162	4111
+AlfI	Deinococcus-Thermus	112157	110563
+AlfI	Dictyoglomi	302	295
+AlfI	Elusimicrobia	1510	1496
+AlfI	Fibrobacteres	25880	25770
+AlfI	Firmicutes	3025666	2986041
+AlfI	Fusobacteria	8358	7966
+AlfI	Gemmatimonadetes	8706	8592
+AlfI	Ignavibacteriae	829	825
+AlfI	Kiritimatiellaeota	7714	7598
+AlfI	Lentisphaerae	5346	5263
+AlfI	Nitrospinae	1044	1023
+AlfI	Nitrospirae	16715	16580
+AlfI	Planctomycetes	294321	292167
+AlfI	Proteobacteria	19081538	18932509
+AlfI	Rhodothermaeota	3899	3821
+AlfI	Spirochaetes	75216	74320
+AlfI	Synergistetes	12573	12429
+AlfI	Tenericutes	11466	11181
+AlfI	Thermodesulfobacteria	1677	1645
+AlfI	Thermotogae	8525	8447
+AlfI	Verrucomicrobia	105919	103804
+AlfI	candidate division NC10	680	668
+AlfI	unclassified	79704	48134
+AlfI	Ascomycota	1515118	1504713
+AlfI	Basidiomycota	439728	430265
+AlfI	Chytridiomycota	12646	12296
+AlfI	Microsporidia	8008	7797
+AlfI	Mucoromycota	22629	21185
+AloI	Candidatus Bathyarchaeota	209	209
+AloI	Candidatus Korarchaeota	935	925
+AloI	Candidatus Micrarchaeota	96	93
+AloI	Crenarchaeota	13329	13226
+AloI	Euryarchaeota	308701	306324
+AloI	Thaumarchaeota	5061	5009
+AloI	unclassified	1615	1508
+AloI	Abditibacteriota	327	320
+AloI	Acidobacteria	49388	48115
+AloI	Actinobacteria	3635439	3599052
+AloI	Aquificae	6111	6064
+AloI	Armatimonadetes	4300	4239
+AloI	Bacteroidetes	827954	817934
+AloI	Balneolaeota	7245	7189
+AloI	Caldiserica	122	120
+AloI	Calditrichaeota	477	467
+AloI	Candidatus Atribacteria	125	111
+AloI	Candidatus Bipolaricaulota	597	587
+AloI	Candidatus Cloacimonetes	579	567
+AloI	Candidatus Cryosericota	1551	1539
+AloI	Candidatus Gracilibacteria	36	36
+AloI	Candidatus Kryptonia	911	907
+AloI	Candidatus Marinimicrobia	2161	2146
+AloI	Candidatus Melainabacteria	1182	1153
+AloI	Candidatus Saccharibacteria	1187	1164
+AloI	Candidatus Tectomicrobia	1190	1180
+AloI	Chlamydiae	6759	6645
+AloI	Chlorobi	9604	9416
+AloI	Chloroflexi	31077	30478
+AloI	Chrysiogenetes	637	622
+AloI	Coprothermobacterota	407	399
+AloI	Cyanobacteria	122018	119074
+AloI	Deferribacteres	2609	2572
+AloI	Deinococcus-Thermus	46254	45251
+AloI	Dictyoglomi	441	436
+AloI	Elusimicrobia	371	366
+AloI	Fibrobacteres	14170	14072
+AloI	Firmicutes	1555162	1532929
+AloI	Fusobacteria	11219	10804
+AloI	Gemmatimonadetes	2917	2830
+AloI	Ignavibacteriae	708	700
+AloI	Kiritimatiellaeota	4215	4119
+AloI	Lentisphaerae	3587	3518
+AloI	Nitrospinae	919	904
+AloI	Nitrospirae	12152	12010
+AloI	Planctomycetes	166688	164834
+AloI	Proteobacteria	4604976	4551109
+AloI	Rhodothermaeota	3848	3765
+AloI	Spirochaetes	93602	92922
+AloI	Synergistetes	11184	10990
+AloI	Tenericutes	10055	9723
+AloI	Thermodesulfobacteria	1807	1773
+AloI	Thermotogae	11786	11693
+AloI	Verrucomicrobia	49203	47934
+AloI	candidate division NC10	438	432
+AloI	unclassified	26995	17314
+AloI	Ascomycota	685308	679049
+AloI	Basidiomycota	167205	162244
+AloI	Chytridiomycota	4324	4195
+AloI	Microsporidia	2999	2935
+AloI	Mucoromycota	12258	11483
+BaeI	Candidatus Bathyarchaeota	222	221
+BaeI	Candidatus Korarchaeota	550	542
+BaeI	Candidatus Micrarchaeota	110	108
+BaeI	Crenarchaeota	15455	15389
+BaeI	Euryarchaeota	223204	221709
+BaeI	Thaumarchaeota	7027	6951
+BaeI	unclassified	908	884
+BaeI	Abditibacteriota	119	117
+BaeI	Acidobacteria	29697	28960
+BaeI	Actinobacteria	1843246	1825946
+BaeI	Aquificae	6124	6048
+BaeI	Armatimonadetes	2219	2196
+BaeI	Bacteroidetes	1424950	1410934
+BaeI	Balneolaeota	10231	10150
+BaeI	Caldiserica	169	165
+BaeI	Calditrichaeota	397	387
+BaeI	Candidatus Atribacteria	213	187
+BaeI	Candidatus Bipolaricaulota	86	85
+BaeI	Candidatus Cloacimonetes	304	292
+BaeI	Candidatus Cryosericota	1446	1436
+BaeI	Candidatus Gracilibacteria	58	52
+BaeI	Candidatus Kryptonia	852	846
+BaeI	Candidatus Marinimicrobia	2775	2745
+BaeI	Candidatus Melainabacteria	1318	1289
+BaeI	Candidatus Saccharibacteria	3254	3214
+BaeI	Candidatus Tectomicrobia	2022	2017
+BaeI	Chlamydiae	6043	5892
+BaeI	Chlorobi	7890	7782
+BaeI	Chloroflexi	41983	41484
+BaeI	Chrysiogenetes	881	868
+BaeI	Coprothermobacterota	665	649
+BaeI	Cyanobacteria	211541	208056
+BaeI	Deferribacteres	3108	3056
+BaeI	Deinococcus-Thermus	21664	21277
+BaeI	Dictyoglomi	643	637
+BaeI	Elusimicrobia	506	501
+BaeI	Fibrobacteres	11669	11597
+BaeI	Firmicutes	2119681	2093652
+BaeI	Fusobacteria	15142	14721
+BaeI	Gemmatimonadetes	1893	1876
+BaeI	Ignavibacteriae	668	654
+BaeI	Kiritimatiellaeota	1794	1766
+BaeI	Lentisphaerae	1458	1401
+BaeI	Nitrospinae	336	328
+BaeI	Nitrospirae	7966	7889
+BaeI	Planctomycetes	94800	93894
+BaeI	Proteobacteria	4217767	4171947
+BaeI	Rhodothermaeota	934	924
+BaeI	Spirochaetes	70888	70153
+BaeI	Synergistetes	5467	5378
+BaeI	Tenericutes	16001	15558
+BaeI	Thermodesulfobacteria	1634	1594
+BaeI	Thermotogae	13043	12920
+BaeI	Verrucomicrobia	23229	22356
+BaeI	candidate division NC10	329	327
+BaeI	unclassified	26446	18769
+BaeI	Ascomycota	968726	958242
+BaeI	Basidiomycota	239732	232517
+BaeI	Chytridiomycota	8432	8134
+BaeI	Microsporidia	4223	4123
+BaeI	Mucoromycota	25452	23993
+BcgI	Candidatus Bathyarchaeota	752	751
+BcgI	Candidatus Korarchaeota	1429	1414
+BcgI	Candidatus Micrarchaeota	293	289
+BcgI	Crenarchaeota	29631	29478
+BcgI	Euryarchaeota	939783	934237
+BcgI	Thaumarchaeota	14017	13916
+BcgI	unclassified	3504	3388
+BcgI	Abditibacteriota	3271	3257
+BcgI	Acidobacteria	297970	292178
+BcgI	Actinobacteria	21040361	20887852
+BcgI	Aquificae	5605	5573
+BcgI	Armatimonadetes	18793	18675
+BcgI	Bacteroidetes	3147536	3113238
+BcgI	Balneolaeota	22959	22818
+BcgI	Caldiserica	398	394
+BcgI	Calditrichaeota	1946	1923
+BcgI	Candidatus Atribacteria	318	274
+BcgI	Candidatus Bipolaricaulota	747	740
+BcgI	Candidatus Cloacimonetes	658	643
+BcgI	Candidatus Cryosericota	6873	6848
+BcgI	Candidatus Gracilibacteria	24	23
+BcgI	Candidatus Kryptonia	2123	2119
+BcgI	Candidatus Marinimicrobia	6908	6861
+BcgI	Candidatus Melainabacteria	3459	3400
+BcgI	Candidatus Saccharibacteria	11289	11203
+BcgI	Candidatus Tectomicrobia	11788	11762
+BcgI	Chlamydiae	20521	20225
+BcgI	Chlorobi	53635	52956
+BcgI	Chloroflexi	224973	222273
+BcgI	Chrysiogenetes	4082	4004
+BcgI	Coprothermobacterota	1026	996
+BcgI	Cyanobacteria	717777	704501
+BcgI	Deferribacteres	5721	5661
+BcgI	Deinococcus-Thermus	177423	174882
+BcgI	Dictyoglomi	340	338
+BcgI	Elusimicrobia	1648	1633
+BcgI	Fibrobacteres	64875	64611
+BcgI	Firmicutes	5462450	5387295
+BcgI	Fusobacteria	11010	10422
+BcgI	Gemmatimonadetes	21978	21648
+BcgI	Ignavibacteriae	2857	2849
+BcgI	Kiritimatiellaeota	17730	17454
+BcgI	Lentisphaerae	13441	13243
+BcgI	Nitrospinae	2175	2151
+BcgI	Nitrospirae	44812	44424
+BcgI	Planctomycetes	941740	935177
+BcgI	Proteobacteria	38214065	37910123
+BcgI	Rhodothermaeota	16886	16613
+BcgI	Spirochaetes	207789	206039
+BcgI	Synergistetes	32892	32507
+BcgI	Tenericutes	18692	18216
+BcgI	Thermodesulfobacteria	2718	2682
+BcgI	Thermotogae	25652	25443
+BcgI	Verrucomicrobia	239931	235438
+BcgI	candidate division NC10	1911	1882
+BcgI	unclassified	156347	85052
+BcgI	Ascomycota	3215184	3194546
+BcgI	Basidiomycota	1028159	1010678
+BcgI	Chytridiomycota	20221	19645
+BcgI	Microsporidia	10113	9805
+BcgI	Mucoromycota	37312	35328
+BplI	Candidatus Bathyarchaeota	250	250
+BplI	Candidatus Korarchaeota	2660	2640
+BplI	Candidatus Micrarchaeota	96	95
+BplI	Crenarchaeota	31549	31324
+BplI	Euryarchaeota	439618	436314
+BplI	Thaumarchaeota	6837	6782
+BplI	unclassified	1687	1591
+BplI	Abditibacteriota	328	322
+BplI	Acidobacteria	73491	72308
+BplI	Actinobacteria	5330918	5283016
+BplI	Aquificae	11583	11511
+BplI	Armatimonadetes	5761	5703
+BplI	Bacteroidetes	716521	707768
+BplI	Balneolaeota	7557	7500
+BplI	Caldiserica	191	184
+BplI	Calditrichaeota	293	282
+BplI	Candidatus Atribacteria	157	142
+BplI	Candidatus Bipolaricaulota	513	505
+BplI	Candidatus Cloacimonetes	303	291
+BplI	Candidatus Cryosericota	1770	1760
+BplI	Candidatus Gracilibacteria	41	38
+BplI	Candidatus Kryptonia	1083	1073
+BplI	Candidatus Marinimicrobia	2497	2475
+BplI	Candidatus Melainabacteria	1033	1017
+BplI	Candidatus Saccharibacteria	2328	2299
+BplI	Candidatus Tectomicrobia	2587	2574
+BplI	Chlamydiae	12804	12685
+BplI	Chlorobi	13353	13154
+BplI	Chloroflexi	47326	46368
+BplI	Chrysiogenetes	856	835
+BplI	Coprothermobacterota	508	495
+BplI	Cyanobacteria	215263	211186
+BplI	Deferribacteres	4046	4003
+BplI	Deinococcus-Thermus	61797	60608
+BplI	Dictyoglomi	800	798
+BplI	Elusimicrobia	371	355
+BplI	Fibrobacteres	9420	9353
+BplI	Firmicutes	1460680	1437404
+BplI	Fusobacteria	8290	8030
+BplI	Gemmatimonadetes	2757	2695
+BplI	Ignavibacteriae	674	670
+BplI	Kiritimatiellaeota	2542	2489
+BplI	Lentisphaerae	2473	2426
+BplI	Nitrospinae	364	359
+BplI	Nitrospirae	15920	15818
+BplI	Planctomycetes	173945	172169
+BplI	Proteobacteria	5231551	5165322
+BplI	Rhodothermaeota	7217	7097
+BplI	Spirochaetes	89284	88383
+BplI	Synergistetes	18554	18307
+BplI	Tenericutes	5495	5242
+BplI	Thermodesulfobacteria	3189	3144
+BplI	Thermotogae	17748	17592
+BplI	Verrucomicrobia	63315	62092
+BplI	candidate division NC10	766	752
+BplI	unclassified	30228	18948
+BplI	Ascomycota	1370704	1358535
+BplI	Basidiomycota	407036	396991
+BplI	Chytridiomycota	6355	6188
+BplI	Microsporidia	5487	5321
+BplI	Mucoromycota	17228	16234
+BsaXI	Candidatus Bathyarchaeota	791	789
+BsaXI	Candidatus Korarchaeota	3662	3621
+BsaXI	Candidatus Micrarchaeota	305	299
+BsaXI	Crenarchaeota	75808	75237
+BsaXI	Euryarchaeota	747137	741338
+BsaXI	Thaumarchaeota	17259	17093
+BsaXI	unclassified	3503	3298
+BsaXI	Abditibacteriota	585	577
+BsaXI	Acidobacteria	161237	157988
+BsaXI	Actinobacteria	11328924	11226203
+BsaXI	Aquificae	25027	24795
+BsaXI	Armatimonadetes	12911	12789
+BsaXI	Bacteroidetes	2796870	2766584
+BsaXI	Balneolaeota	21160	21004
+BsaXI	Caldiserica	511	500
+BsaXI	Calditrichaeota	1077	1051
+BsaXI	Candidatus Atribacteria	637	572
+BsaXI	Candidatus Bipolaricaulota	1352	1329
+BsaXI	Candidatus Cloacimonetes	1375	1353
+BsaXI	Candidatus Cryosericota	4108	4090
+BsaXI	Candidatus Gracilibacteria	149	143
+BsaXI	Candidatus Kryptonia	2669	2661
+BsaXI	Candidatus Marinimicrobia	6869	6787
+BsaXI	Candidatus Melainabacteria	2900	2849
+BsaXI	Candidatus Saccharibacteria	4961	4893
+BsaXI	Candidatus Tectomicrobia	4706	4681
+BsaXI	Chlamydiae	25866	25482
+BsaXI	Chlorobi	25477	25056
+BsaXI	Chloroflexi	103562	101819
+BsaXI	Chrysiogenetes	2401	2342
+BsaXI	Coprothermobacterota	1556	1511
+BsaXI	Cyanobacteria	508299	498252
+BsaXI	Deferribacteres	8015	7906
+BsaXI	Deinococcus-Thermus	136079	133567
+BsaXI	Dictyoglomi	2928	2903
+BsaXI	Elusimicrobia	1464	1416
+BsaXI	Fibrobacteres	24020	23849
+BsaXI	Firmicutes	4799066	4736317
+BsaXI	Fusobacteria	59074	57587
+BsaXI	Gemmatimonadetes	7547	7387
+BsaXI	Ignavibacteriae	1661	1639
+BsaXI	Kiritimatiellaeota	8075	7909
+BsaXI	Lentisphaerae	7175	7065
+BsaXI	Nitrospinae	1519	1506
+BsaXI	Nitrospirae	34911	34606
+BsaXI	Planctomycetes	361372	357515
+BsaXI	Proteobacteria	10221955	10092156
+BsaXI	Rhodothermaeota	12971	12721
+BsaXI	Spirochaetes	221583	219508
+BsaXI	Synergistetes	38785	38184
+BsaXI	Tenericutes	30644	29560
+BsaXI	Thermodesulfobacteria	8687	8495
+BsaXI	Thermotogae	38050	37645
+BsaXI	Verrucomicrobia	167767	164076
+BsaXI	candidate division NC10	1434	1411
+BsaXI	unclassified	76995	54561
+BsaXI	Ascomycota	3134476	3108161
+BsaXI	Basidiomycota	822733	800448
+BsaXI	Chytridiomycota	17050	16614
+BsaXI	Microsporidia	11810	11479
+BsaXI	Mucoromycota	45896	43168
+BslFI	Candidatus Bathyarchaeota	1207	1199
+BslFI	Candidatus Korarchaeota	6268	6208
+BslFI	Candidatus Micrarchaeota	674	660
+BslFI	Crenarchaeota	129924	128604
+BslFI	Euryarchaeota	2829266	2797456
+BslFI	Thaumarchaeota	35032	34534
+BslFI	unclassified	12208	11468
+BslFI	Abditibacteriota	2617	2573
+BslFI	Acidobacteria	422412	408178
+BslFI	Actinobacteria	45212194	44783628
+BslFI	Aquificae	42171	41483
+BslFI	Armatimonadetes	35014	34446
+BslFI	Bacteroidetes	5129364	5054454
+BslFI	Balneolaeota	57255	56496
+BslFI	Caldiserica	988	961
+BslFI	Calditrichaeota	3265	3146
+BslFI	Candidatus Atribacteria	1178	1042
+BslFI	Candidatus Bipolaricaulota	5214	5107
+BslFI	Candidatus Cloacimonetes	2710	2631
+BslFI	Candidatus Cryosericota	13711	13575
+BslFI	Candidatus Gracilibacteria	94	83
+BslFI	Candidatus Kryptonia	9423	9331
+BslFI	Candidatus Marinimicrobia	25453	25089
+BslFI	Candidatus Melainabacteria	7575	7358
+BslFI	Candidatus Saccharibacteria	9765	9579
+BslFI	Candidatus Tectomicrobia	18586	18419
+BslFI	Chlamydiae	46698	45870
+BslFI	Chlorobi	51589	50487
+BslFI	Chloroflexi	324039	317023
+BslFI	Chrysiogenetes	4985	4805
+BslFI	Coprothermobacterota	3128	3016
+BslFI	Cyanobacteria	1473128	1438923
+BslFI	Deferribacteres	15828	15440
+BslFI	Deinococcus-Thermus	524536	512763
+BslFI	Dictyoglomi	2986	2905
+BslFI	Elusimicrobia	3158	3059
+BslFI	Fibrobacteres	68860	68198
+BslFI	Firmicutes	11646401	11463309
+BslFI	Fusobacteria	57527	55293
+BslFI	Gemmatimonadetes	28091	27272
+BslFI	Ignavibacteriae	3985	3889
+BslFI	Kiritimatiellaeota	21164	20572
+BslFI	Lentisphaerae	18864	18388
+BslFI	Nitrospinae	4955	4852
+BslFI	Nitrospirae	114250	112655
+BslFI	Planctomycetes	1554511	1531748
+BslFI	Proteobacteria	37334824	36841009
+BslFI	Rhodothermaeota	53496	52235
+BslFI	Spirochaetes	516443	510094
+BslFI	Synergistetes	121598	119557
+BslFI	Tenericutes	39651	37767
+BslFI	Thermodesulfobacteria	15596	15172
+BslFI	Thermotogae	60974	60011
+BslFI	Verrucomicrobia	407355	395797
+BslFI	candidate division NC10	5032	4890
+BslFI	unclassified	236139	168591
+BslFI	Ascomycota	7469372	7404596
+BslFI	Basidiomycota	2051433	1992622
+BslFI	Chytridiomycota	41495	40467
+BslFI	Microsporidia	22340	21694
+BslFI	Mucoromycota	96573	90282
+Bsp24I	Candidatus Bathyarchaeota	671	668
+Bsp24I	Candidatus Korarchaeota	1106	1095
+Bsp24I	Candidatus Micrarchaeota	187	183
+Bsp24I	Crenarchaeota	32242	31980
+Bsp24I	Euryarchaeota	552670	548170
+Bsp24I	Thaumarchaeota	14307	14142
+Bsp24I	unclassified	2321	2176
+Bsp24I	Abditibacteriota	1194	1180
+Bsp24I	Acidobacteria	123941	120216
+Bsp24I	Actinobacteria	9508482	9421943
+Bsp24I	Aquificae	7727	7631
+Bsp24I	Armatimonadetes	10008	9898
+Bsp24I	Bacteroidetes	1943100	1919286
+Bsp24I	Balneolaeota	14255	14062
+Bsp24I	Caldiserica	218	211
+Bsp24I	Calditrichaeota	1307	1274
+Bsp24I	Candidatus Atribacteria	294	268
+Bsp24I	Candidatus Bipolaricaulota	638	623
+Bsp24I	Candidatus Cloacimonetes	780	756
+Bsp24I	Candidatus Cryosericota	3873	3846
+Bsp24I	Candidatus Gracilibacteria	53	51
+Bsp24I	Candidatus Kryptonia	2236	2224
+Bsp24I	Candidatus Marinimicrobia	6323	6264
+Bsp24I	Candidatus Melainabacteria	2276	2232
+Bsp24I	Candidatus Saccharibacteria	7134	7058
+Bsp24I	Candidatus Tectomicrobia	6277	6245
+Bsp24I	Chlamydiae	13351	13101
+Bsp24I	Chlorobi	15368	15004
+Bsp24I	Chloroflexi	116064	114231
+Bsp24I	Chrysiogenetes	2119	2043
+Bsp24I	Coprothermobacterota	1242	1217
+Bsp24I	Cyanobacteria	455978	445770
+Bsp24I	Deferribacteres	3857	3767
+Bsp24I	Deinococcus-Thermus	106411	104143
+Bsp24I	Dictyoglomi	906	893
+Bsp24I	Elusimicrobia	734	715
+Bsp24I	Fibrobacteres	24364	24194
+Bsp24I	Firmicutes	3562718	3509914
+Bsp24I	Fusobacteria	17110	16506
+Bsp24I	Gemmatimonadetes	8618	8441
+Bsp24I	Ignavibacteriae	1154	1132
+Bsp24I	Kiritimatiellaeota	6877	6726
+Bsp24I	Lentisphaerae	4057	3980
+Bsp24I	Nitrospinae	1157	1138
+Bsp24I	Nitrospirae	26779	26418
+Bsp24I	Planctomycetes	448059	443591
+Bsp24I	Proteobacteria	14295666	14142339
+Bsp24I	Rhodothermaeota	9755	9567
+Bsp24I	Spirochaetes	120704	119370
+Bsp24I	Synergistetes	17954	17699
+Bsp24I	Tenericutes	15658	15024
+Bsp24I	Thermodesulfobacteria	3833	3760
+Bsp24I	Thermotogae	21677	21466
+Bsp24I	Verrucomicrobia	114680	112111
+Bsp24I	candidate division NC10	1191	1170
+Bsp24I	unclassified	71349	45234
+Bsp24I	Ascomycota	2783832	2764418
+Bsp24I	Basidiomycota	741731	721335
+Bsp24I	Chytridiomycota	19373	18639
+Bsp24I	Microsporidia	7689	7440
+Bsp24I	Mucoromycota	45652	42874
+CjeI	Candidatus Bathyarchaeota	3244	3232
+CjeI	Candidatus Korarchaeota	5511	5454
+CjeI	Candidatus Micrarchaeota	1041	1025
+CjeI	Crenarchaeota	167094	165890
+CjeI	Euryarchaeota	1791559	1777254
+CjeI	Thaumarchaeota	80453	79544
+CjeI	unclassified	9421	9012
+CjeI	Abditibacteriota	5011	4976
+CjeI	Acidobacteria	426453	414178
+CjeI	Actinobacteria	26732776	26472391
+CjeI	Aquificae	57132	56527
+CjeI	Armatimonadetes	35053	34702
+CjeI	Bacteroidetes	12574156	12452229
+CjeI	Balneolaeota	85885	85106
+CjeI	Caldiserica	1982	1938
+CjeI	Calditrichaeota	6668	6550
+CjeI	Candidatus Atribacteria	1958	1755
+CjeI	Candidatus Bipolaricaulota	2177	2133
+CjeI	Candidatus Cloacimonetes	5567	5477
+CjeI	Candidatus Cryosericota	12542	12481
+CjeI	Candidatus Gracilibacteria	586	576
+CjeI	Candidatus Kryptonia	13326	13241
+CjeI	Candidatus Marinimicrobia	33001	32710
+CjeI	Candidatus Melainabacteria	13585	13301
+CjeI	Candidatus Saccharibacteria	30152	29841
+CjeI	Candidatus Tectomicrobia	24887	24792
+CjeI	Chlamydiae	70932	69109
+CjeI	Chlorobi	65943	64766
+CjeI	Chloroflexi	499197	492417
+CjeI	Chrysiogenetes	10646	10420
+CjeI	Coprothermobacterota	7959	7834
+CjeI	Cyanobacteria	2400538	2354909
+CjeI	Deferribacteres	23624	23173
+CjeI	Deinococcus-Thermus	396227	389178
+CjeI	Dictyoglomi	6603	6517
+CjeI	Elusimicrobia	4612	4523
+CjeI	Fibrobacteres	104886	104194
+CjeI	Firmicutes	18368894	18117339
+CjeI	Fusobacteria	146722	142434
+CjeI	Gemmatimonadetes	27829	27382
+CjeI	Ignavibacteriae	6157	6062
+CjeI	Kiritimatiellaeota	26588	26056
+CjeI	Lentisphaerae	17750	17365
+CjeI	Nitrospinae	5031	4964
+CjeI	Nitrospirae	93883	92763
+CjeI	Planctomycetes	1506785	1492467
+CjeI	Proteobacteria	55784096	55189587
+CjeI	Rhodothermaeota	24765	24215
+CjeI	Spirochaetes	645020	638701
+CjeI	Synergistetes	59978	59097
+CjeI	Tenericutes	173039	167624
+CjeI	Thermodesulfobacteria	22907	22486
+CjeI	Thermotogae	137212	135835
+CjeI	Verrucomicrobia	409051	399375
+CjeI	candidate division NC10	3859	3788
+CjeI	unclassified	288406	192995
+CjeI	Ascomycota	9956094	9876813
+CjeI	Basidiomycota	2445668	2370455
+CjeI	Chytridiomycota	84563	81248
+CjeI	Microsporidia	40610	39492
+CjeI	Mucoromycota	231532	217499
+CjePI	Candidatus Bathyarchaeota	3748	3740
+CjePI	Candidatus Korarchaeota	10488	10376
+CjePI	Candidatus Micrarchaeota	1369	1343
+CjePI	Crenarchaeota	194589	193194
+CjePI	Euryarchaeota	2000691	1984592
+CjePI	Thaumarchaeota	85963	85136
+CjePI	unclassified	11613	11233
+CjePI	Abditibacteriota	6738	6672
+CjePI	Acidobacteria	562896	549751
+CjePI	Actinobacteria	26348382	26079226
+CjePI	Aquificae	58810	58213
+CjePI	Armatimonadetes	46437	46026
+CjePI	Bacteroidetes	12535691	12413582
+CjePI	Balneolaeota	99644	98725
+CjePI	Caldiserica	1621	1587
+CjePI	Calditrichaeota	7620	7489
+CjePI	Candidatus Atribacteria	2833	2532
+CjePI	Candidatus Bipolaricaulota	2388	2357
+CjePI	Candidatus Cloacimonetes	6353	6230
+CjePI	Candidatus Cryosericota	14155	14053
+CjePI	Candidatus Gracilibacteria	617	607
+CjePI	Candidatus Kryptonia	16454	16354
+CjePI	Candidatus Marinimicrobia	38649	38289
+CjePI	Candidatus Melainabacteria	14023	13704
+CjePI	Candidatus Saccharibacteria	34312	33920
+CjePI	Candidatus Tectomicrobia	28770	28614
+CjePI	Chlamydiae	100220	98446
+CjePI	Chlorobi	89969	88339
+CjePI	Chloroflexi	567968	559743
+CjePI	Chrysiogenetes	11371	11092
+CjePI	Coprothermobacterota	7252	7081
+CjePI	Cyanobacteria	2747405	2697550
+CjePI	Deferribacteres	27455	26931
+CjePI	Deinococcus-Thermus	431979	424539
+CjePI	Dictyoglomi	9703	9587
+CjePI	Elusimicrobia	4688	4591
+CjePI	Fibrobacteres	126211	125489
+CjePI	Firmicutes	21587908	21305891
+CjePI	Fusobacteria	155787	151059
+CjePI	Gemmatimonadetes	25222	24775
+CjePI	Ignavibacteriae	8320	8193
+CjePI	Kiritimatiellaeota	33724	33021
+CjePI	Lentisphaerae	21848	21393
+CjePI	Nitrospinae	5285	5225
+CjePI	Nitrospirae	127759	126380
+CjePI	Planctomycetes	1830180	1813467
+CjePI	Proteobacteria	58185076	57557077
+CjePI	Rhodothermaeota	27465	27003
+CjePI	Spirochaetes	899149	891058
+CjePI	Synergistetes	88731	87562
+CjePI	Tenericutes	126945	122757
+CjePI	Thermodesulfobacteria	30152	29590
+CjePI	Thermotogae	166305	164652
+CjePI	Verrucomicrobia	531179	519968
+CjePI	candidate division NC10	5527	5434
+CjePI	unclassified	341524	229914
+CjePI	Ascomycota	12982030	12888101
+CjePI	Basidiomycota	3315364	3216316
+CjePI	Chytridiomycota	98242	94739
+CjePI	Microsporidia	57550	55951
+CjePI	Mucoromycota	273881	256179
+CspCI	Candidatus Bathyarchaeota	250	250
+CspCI	Candidatus Korarchaeota	360	357
+CspCI	Candidatus Micrarchaeota	83	82
+CspCI	Crenarchaeota	10425	10349
+CspCI	Euryarchaeota	81706	81113
+CspCI	Thaumarchaeota	5913	5859
+CspCI	unclassified	413	406
+CspCI	Abditibacteriota	521	521
+CspCI	Acidobacteria	27778	27057
+CspCI	Actinobacteria	1001688	991354
+CspCI	Aquificae	4135	4113
+CspCI	Armatimonadetes	2442	2431
+CspCI	Bacteroidetes	806474	800185
+CspCI	Balneolaeota	5952	5931
+CspCI	Caldiserica	109	109
+CspCI	Calditrichaeota	454	452
+CspCI	Candidatus Atribacteria	141	117
+CspCI	Candidatus Bipolaricaulota	86	85
+CspCI	Candidatus Cloacimonetes	351	345
+CspCI	Candidatus Cryosericota	954	950
+CspCI	Candidatus Gracilibacteria	22	21
+CspCI	Candidatus Kryptonia	955	951
+CspCI	Candidatus Marinimicrobia	2518	2504
+CspCI	Candidatus Melainabacteria	904	883
+CspCI	Candidatus Saccharibacteria	1892	1884
+CspCI	Candidatus Tectomicrobia	2201	2199
+CspCI	Chlamydiae	5607	5518
+CspCI	Chlorobi	4579	4542
+CspCI	Chloroflexi	34547	34190
+CspCI	Chrysiogenetes	885	870
+CspCI	Coprothermobacterota	589	584
+CspCI	Cyanobacteria	194695	191714
+CspCI	Deferribacteres	2340	2320
+CspCI	Deinococcus-Thermus	21015	20790
+CspCI	Dictyoglomi	445	444
+CspCI	Elusimicrobia	433	429
+CspCI	Fibrobacteres	8761	8729
+CspCI	Firmicutes	1200422	1187109
+CspCI	Fusobacteria	7804	7590
+CspCI	Gemmatimonadetes	1623	1614
+CspCI	Ignavibacteriae	368	367
+CspCI	Kiritimatiellaeota	1729	1711
+CspCI	Lentisphaerae	999	987
+CspCI	Nitrospinae	295	294
+CspCI	Nitrospirae	6208	6155
+CspCI	Planctomycetes	104420	103765
+CspCI	Proteobacteria	3927811	3891548
+CspCI	Rhodothermaeota	786	784
+CspCI	Spirochaetes	44372	44052
+CspCI	Synergistetes	3230	3188
+CspCI	Tenericutes	9010	8799
+CspCI	Thermodesulfobacteria	1661	1646
+CspCI	Thermotogae	10319	10241
+CspCI	Verrucomicrobia	27694	27226
+CspCI	candidate division NC10	260	256
+CspCI	unclassified	19184	12812
+CspCI	Ascomycota	733215	727793
+CspCI	Basidiomycota	177037	171692
+CspCI	Chytridiomycota	6356	6156
+CspCI	Microsporidia	3228	3162
+CspCI	Mucoromycota	16086	15180
+FalI	Candidatus Bathyarchaeota	1024	1024
+FalI	Candidatus Korarchaeota	2296	2278
+FalI	Candidatus Micrarchaeota	445	438
+FalI	Crenarchaeota	39811	39552
+FalI	Euryarchaeota	250091	248191
+FalI	Thaumarchaeota	17602	17478
+FalI	unclassified	1740	1710
+FalI	Abditibacteriota	1095	1088
+FalI	Acidobacteria	71337	69631
+FalI	Actinobacteria	1796686	1762413
+FalI	Aquificae	35412	35163
+FalI	Armatimonadetes	5959	5900
+FalI	Bacteroidetes	3006461	2979727
+FalI	Balneolaeota	19270	19149
+FalI	Caldiserica	1231	1212
+FalI	Calditrichaeota	1135	1118
+FalI	Candidatus Atribacteria	766	688
+FalI	Candidatus Bipolaricaulota	131	129
+FalI	Candidatus Cloacimonetes	1666	1635
+FalI	Candidatus Cryosericota	1605	1595
+FalI	Candidatus Gracilibacteria	540	538
+FalI	Candidatus Kryptonia	5758	5729
+FalI	Candidatus Marinimicrobia	4866	4822
+FalI	Candidatus Melainabacteria	4887	4805
+FalI	Candidatus Saccharibacteria	5984	5917
+FalI	Candidatus Tectomicrobia	2530	2509
+FalI	Chlamydiae	40133	39383
+FalI	Chlorobi	18582	18268
+FalI	Chloroflexi	59985	59014
+FalI	Chrysiogenetes	1590	1551
+FalI	Coprothermobacterota	2040	1991
+FalI	Cyanobacteria	437205	429604
+FalI	Deferribacteres	10357	10165
+FalI	Deinococcus-Thermus	60876	59668
+FalI	Dictyoglomi	4315	4283
+FalI	Elusimicrobia	2979	2946
+FalI	Fibrobacteres	37950	37719
+FalI	Firmicutes	5465507	5400357
+FalI	Fusobacteria	61259	59762
+FalI	Gemmatimonadetes	1704	1643
+FalI	Ignavibacteriae	3065	3030
+FalI	Kiritimatiellaeota	4339	4228
+FalI	Lentisphaerae	4655	4539
+FalI	Nitrospinae	614	607
+FalI	Nitrospirae	20887	20652
+FalI	Planctomycetes	183924	181797
+FalI	Proteobacteria	8143549	8045309
+FalI	Rhodothermaeota	2008	1922
+FalI	Spirochaetes	261717	259456
+FalI	Synergistetes	19753	19512
+FalI	Tenericutes	67958	66043
+FalI	Thermodesulfobacteria	17194	16975
+FalI	Thermotogae	48521	48071
+FalI	Verrucomicrobia	73796	71579
+FalI	candidate division NC10	631	616
+FalI	unclassified	64058	42901
+FalI	Ascomycota	1862334	1825835
+FalI	Basidiomycota	434668	419235
+FalI	Chytridiomycota	13973	13603
+FalI	Microsporidia	15084	14801
+FalI	Mucoromycota	70774	66422
+HaeIV	Candidatus Bathyarchaeota	1730	1722
+HaeIV	Candidatus Korarchaeota	7780	7693
+HaeIV	Candidatus Micrarchaeota	1195	1178
+HaeIV	Crenarchaeota	113565	112744
+HaeIV	Euryarchaeota	2507452	2490271
+HaeIV	Thaumarchaeota	80109	79357
+HaeIV	unclassified	14082	13685
+HaeIV	Abditibacteriota	4275	4229
+HaeIV	Acidobacteria	439574	430654
+HaeIV	Actinobacteria	27852492	27594541
+HaeIV	Aquificae	42229	41843
+HaeIV	Armatimonadetes	38702	38292
+HaeIV	Bacteroidetes	9523784	9423966
+HaeIV	Balneolaeota	89505	88763
+HaeIV	Caldiserica	1448	1393
+HaeIV	Calditrichaeota	5279	5126
+HaeIV	Candidatus Atribacteria	2041	1819
+HaeIV	Candidatus Bipolaricaulota	1491	1462
+HaeIV	Candidatus Cloacimonetes	3780	3672
+HaeIV	Candidatus Cryosericota	12297	12232
+HaeIV	Candidatus Gracilibacteria	705	679
+HaeIV	Candidatus Kryptonia	11744	11662
+HaeIV	Candidatus Marinimicrobia	28268	27970
+HaeIV	Candidatus Melainabacteria	11413	11101
+HaeIV	Candidatus Saccharibacteria	30591	30307
+HaeIV	Candidatus Tectomicrobia	23605	23497
+HaeIV	Chlamydiae	88143	86468
+HaeIV	Chlorobi	82669	81054
+HaeIV	Chloroflexi	420313	414547
+HaeIV	Chrysiogenetes	6613	6395
+HaeIV	Coprothermobacterota	3553	3425
+HaeIV	Cyanobacteria	2168284	2131479
+HaeIV	Deferribacteres	27807	27290
+HaeIV	Deinococcus-Thermus	197006	193079
+HaeIV	Dictyoglomi	5644	5572
+HaeIV	Elusimicrobia	4089	4016
+HaeIV	Fibrobacteres	84688	84101
+HaeIV	Firmicutes	18933687	18684691
+HaeIV	Fusobacteria	115356	111609
+HaeIV	Gemmatimonadetes	26546	26060
+HaeIV	Ignavibacteriae	8663	8522
+HaeIV	Kiritimatiellaeota	27389	26766
+HaeIV	Lentisphaerae	20037	19566
+HaeIV	Nitrospinae	4206	4138
+HaeIV	Nitrospirae	135034	133697
+HaeIV	Planctomycetes	1975087	1959016
+HaeIV	Proteobacteria	53212876	52664511
+HaeIV	Rhodothermaeota	22106	21806
+HaeIV	Spirochaetes	846084	838596
+HaeIV	Synergistetes	77112	75974
+HaeIV	Tenericutes	159745	155216
+HaeIV	Thermodesulfobacteria	16040	15699
+HaeIV	Thermotogae	115522	114308
+HaeIV	Verrucomicrobia	368653	359407
+HaeIV	candidate division NC10	5083	4995
+HaeIV	unclassified	304529	199230
+HaeIV	Ascomycota	10172058	10073719
+HaeIV	Basidiomycota	2728878	2651681
+HaeIV	Chytridiomycota	83870	80263
+HaeIV	Microsporidia	47242	46065
+HaeIV	Mucoromycota	267511	250787
+Hin4I	Candidatus Bathyarchaeota	1993	1984
+Hin4I	Candidatus Korarchaeota	10461	10359
+Hin4I	Candidatus Micrarchaeota	1073	1054
+Hin4I	Crenarchaeota	137505	136538
+Hin4I	Euryarchaeota	2659093	2640880
+Hin4I	Thaumarchaeota	71647	70970
+Hin4I	unclassified	13043	12640
+Hin4I	Abditibacteriota	3819	3780
+Hin4I	Acidobacteria	466220	457659
+Hin4I	Actinobacteria	29528505	29264711
+Hin4I	Aquificae	50620	50224
+Hin4I	Armatimonadetes	39765	39414
+Hin4I	Bacteroidetes	8435974	8346971
+Hin4I	Balneolaeota	82061	81431
+Hin4I	Caldiserica	1438	1388
+Hin4I	Calditrichaeota	4478	4356
+Hin4I	Candidatus Atribacteria	1887	1687
+Hin4I	Candidatus Bipolaricaulota	1963	1931
+Hin4I	Candidatus Cloacimonetes	3823	3719
+Hin4I	Candidatus Cryosericota	13066	13000
+Hin4I	Candidatus Gracilibacteria	684	662
+Hin4I	Candidatus Kryptonia	11408	11342
+Hin4I	Candidatus Marinimicrobia	25731	25482
+Hin4I	Candidatus Melainabacteria	10501	10231
+Hin4I	Candidatus Saccharibacteria	26946	26680
+Hin4I	Candidatus Tectomicrobia	22125	22038
+Hin4I	Chlamydiae	92463	91011
+Hin4I	Chlorobi	84008	82621
+Hin4I	Chloroflexi	400862	395234
+Hin4I	Chrysiogenetes	6512	6317
+Hin4I	Coprothermobacterota	3692	3584
+Hin4I	Cyanobacteria	2113050	2077395
+Hin4I	Deferribacteres	28041	27533
+Hin4I	Deinococcus-Thermus	238696	234206
+Hin4I	Dictyoglomi	6202	6138
+Hin4I	Elusimicrobia	3858	3786
+Hin4I	Fibrobacteres	82378	81828
+Hin4I	Firmicutes	16826024	16600899
+Hin4I	Fusobacteria	106867	103470
+Hin4I	Gemmatimonadetes	24537	24111
+Hin4I	Ignavibacteriae	7658	7556
+Hin4I	Kiritimatiellaeota	24553	24026
+Hin4I	Lentisphaerae	19255	18813
+Hin4I	Nitrospinae	3794	3733
+Hin4I	Nitrospirae	130269	129148
+Hin4I	Planctomycetes	1765036	1750422
+Hin4I	Proteobacteria	48063588	47553967
+Hin4I	Rhodothermaeota	30524	30097
+Hin4I	Spirochaetes	826140	819191
+Hin4I	Synergistetes	90155	88918
+Hin4I	Tenericutes	123099	119375
+Hin4I	Thermodesulfobacteria	18739	18396
+Hin4I	Thermotogae	119282	118095
+Hin4I	Verrucomicrobia	393515	384602
+Hin4I	candidate division NC10	5144	5063
+Hin4I	unclassified	275945	181808
+Hin4I	Ascomycota	10661416	10561960
+Hin4I	Basidiomycota	2944473	2865656
+Hin4I	Chytridiomycota	75426	72632
+Hin4I	Microsporidia	46026	44871
+Hin4I	Mucoromycota	231795	217882
+PpiI	Candidatus Bathyarchaeota	201	201
+PpiI	Candidatus Korarchaeota	934	926
+PpiI	Candidatus Micrarchaeota	70	70
+PpiI	Crenarchaeota	14803	14699
+PpiI	Euryarchaeota	400641	397814
+PpiI	Thaumarchaeota	4044	4002
+PpiI	unclassified	1787	1669
+PpiI	Abditibacteriota	364	358
+PpiI	Acidobacteria	49409	48157
+PpiI	Actinobacteria	3953006	3913365
+PpiI	Aquificae	5122	5087
+PpiI	Armatimonadetes	3901	3854
+PpiI	Bacteroidetes	563674	556505
+PpiI	Balneolaeota	5545	5513
+PpiI	Caldiserica	77	77
+PpiI	Calditrichaeota	257	253
+PpiI	Candidatus Atribacteria	77	69
+PpiI	Candidatus Bipolaricaulota	651	638
+PpiI	Candidatus Cloacimonetes	344	339
+PpiI	Candidatus Cryosericota	1397	1388
+PpiI	Candidatus Gracilibacteria	61	61
+PpiI	Candidatus Kryptonia	674	673
+PpiI	Candidatus Marinimicrobia	1644	1635
+PpiI	Candidatus Melainabacteria	713	700
+PpiI	Candidatus Saccharibacteria	1261	1244
+PpiI	Candidatus Tectomicrobia	1404	1395
+PpiI	Chlamydiae	5782	5696
+PpiI	Chlorobi	10216	10038
+PpiI	Chloroflexi	32263	31679
+PpiI	Chrysiogenetes	540	528
+PpiI	Coprothermobacterota	329	322
+PpiI	Cyanobacteria	124256	121294
+PpiI	Deferribacteres	2275	2248
+PpiI	Deinococcus-Thermus	46393	45426
+PpiI	Dictyoglomi	293	290
+PpiI	Elusimicrobia	213	211
+PpiI	Fibrobacteres	10910	10838
+PpiI	Firmicutes	1059780	1043644
+PpiI	Fusobacteria	7055	6775
+PpiI	Gemmatimonadetes	3754	3642
+PpiI	Ignavibacteriae	532	526
+PpiI	Kiritimatiellaeota	3050	2976
+PpiI	Lentisphaerae	3067	3019
+PpiI	Nitrospinae	583	576
+PpiI	Nitrospirae	10305	10184
+PpiI	Planctomycetes	158399	156406
+PpiI	Proteobacteria	4526026	4471584
+PpiI	Rhodothermaeota	5393	5244
+PpiI	Spirochaetes	66792	66218
+PpiI	Synergistetes	9295	9161
+PpiI	Tenericutes	6277	6033
+PpiI	Thermodesulfobacteria	1474	1435
+PpiI	Thermotogae	10047	9951
+PpiI	Verrucomicrobia	45229	44223
+PpiI	candidate division NC10	416	404
+PpiI	unclassified	22596	13646
+PpiI	Ascomycota	735318	728700
+PpiI	Basidiomycota	203812	198239
+PpiI	Chytridiomycota	3965	3852
+PpiI	Microsporidia	2842	2758
+PpiI	Mucoromycota	11295	10612
+PsrI	Candidatus Bathyarchaeota	183	183
+PsrI	Candidatus Korarchaeota	435	428
+PsrI	Candidatus Micrarchaeota	79	76
+PsrI	Crenarchaeota	12024	11932
+PsrI	Euryarchaeota	168278	167001
+PsrI	Thaumarchaeota	5242	5167
+PsrI	unclassified	838	765
+PsrI	Abditibacteriota	101	96
+PsrI	Acidobacteria	24390	23770
+PsrI	Actinobacteria	1388166	1372141
+PsrI	Aquificae	4905	4859
+PsrI	Armatimonadetes	2162	2138
+PsrI	Bacteroidetes	865853	856380
+PsrI	Balneolaeota	6045	5994
+PsrI	Caldiserica	129	128
+PsrI	Calditrichaeota	385	379
+PsrI	Candidatus Atribacteria	144	126
+PsrI	Candidatus Bipolaricaulota	184	180
+PsrI	Candidatus Cloacimonetes	443	430
+PsrI	Candidatus Cryosericota	737	733
+PsrI	Candidatus Gracilibacteria	74	74
+PsrI	Candidatus Kryptonia	469	466
+PsrI	Candidatus Marinimicrobia	1471	1454
+PsrI	Candidatus Melainabacteria	1069	1029
+PsrI	Candidatus Saccharibacteria	1330	1306
+PsrI	Candidatus Tectomicrobia	679	674
+PsrI	Chlamydiae	4789	4652
+PsrI	Chlorobi	5231	5136
+PsrI	Chloroflexi	20539	20198
+PsrI	Chrysiogenetes	444	433
+PsrI	Coprothermobacterota	471	468
+PsrI	Cyanobacteria	128698	126375
+PsrI	Deferribacteres	1870	1826
+PsrI	Deinococcus-Thermus	23215	22657
+PsrI	Dictyoglomi	460	458
+PsrI	Elusimicrobia	377	369
+PsrI	Fibrobacteres	9699	9641
+PsrI	Firmicutes	1316292	1298014
+PsrI	Fusobacteria	12570	12168
+PsrI	Gemmatimonadetes	1882	1832
+PsrI	Ignavibacteriae	576	567
+PsrI	Kiritimatiellaeota	1482	1446
+PsrI	Lentisphaerae	1410	1381
+PsrI	Nitrospinae	298	294
+PsrI	Nitrospirae	4435	4372
+PsrI	Planctomycetes	74138	73077
+PsrI	Proteobacteria	2291841	2260801
+PsrI	Rhodothermaeota	1792	1720
+PsrI	Spirochaetes	59041	58461
+PsrI	Synergistetes	4555	4460
+PsrI	Tenericutes	13239	12804
+PsrI	Thermodesulfobacteria	1378	1355
+PsrI	Thermotogae	10669	10552
+PsrI	Verrucomicrobia	17720	17007
+PsrI	candidate division NC10	193	188
+PsrI	unclassified	15637	10504
+PsrI	Ascomycota	487524	481056
+PsrI	Basidiomycota	125014	120678
+PsrI	Chytridiomycota	3798	3643
+PsrI	Microsporidia	3010	2954
+PsrI	Mucoromycota	15326	14377

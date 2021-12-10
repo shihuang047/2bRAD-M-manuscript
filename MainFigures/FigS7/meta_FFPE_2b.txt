@@ -1,0 +1,7 @@
+SampleID	Individual	group
+P1_FFPE	P1	FFPE
+P3_FFPE	P3	FFPE
+P5_FFPE	P5	FFPE
+P1_Fresh	P1	Fresh
+P3_Fresh	P3	Fresh
+P5_Fresh	P5	Fresh
